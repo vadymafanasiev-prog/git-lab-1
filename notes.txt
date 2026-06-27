@@ -1,0 +1,3 @@
+Git helps track changes.
+Git stores project history.
+Commits should be meaningful.
